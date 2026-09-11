@@ -1,0 +1,79 @@
+:root {
+  --vp-c-brand-1: #c45132;
+  --vp-c-brand-2: #a93f25;
+  --vp-c-brand-3: #8d321e;
+  --vp-c-brand-soft: rgba(196, 81, 50, 0.12);
+  --vp-c-bg: #f7f3eb;
+  --vp-c-bg-soft: #fbf9f4;
+  --vp-c-bg-alt: #eee8dc;
+  --vp-c-text-1: #28231e;
+  --vp-c-text-2: #625b52;
+  --vp-c-divider: #ded5c7;
+  --vp-home-hero-name-color: #28231e;
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #f0d8c6 0%, #f5e7bd 100%);
+  --vp-home-hero-image-filter: blur(56px);
+}
+
+body {
+  background: var(--vp-c-bg);
+}
+
+.VPNav {
+  background: rgba(247, 243, 235, 0.88);
+  backdrop-filter: blur(14px);
+}
+
+.VPHero .name {
+  letter-spacing: 0.02em;
+}
+
+.VPHero .text {
+  max-width: 680px;
+}
+
+.VPHero .tagline {
+  color: var(--vp-c-text-2);
+}
+
+.VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: rgba(251, 249, 244, 0.72);
+}
+
+.vp-doc h2 {
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+.dish-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 24px 0 36px;
+}
+
+.dish-card {
+  padding: 20px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+}
+
+.dish-card h3 {
+  margin: 0 0 8px;
+  color: var(--vp-c-text-1);
+  font-size: 18px;
+}
+
+.dish-card p {
+  margin: 0;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+@media (max-width: 640px) {
+  .dish-grid {
+    grid-template-columns: 1fr;
+  }
+}
