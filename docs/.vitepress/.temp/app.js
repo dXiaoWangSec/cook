@@ -30,7 +30,7 @@ _sfc_main$14.setup = (props, ctx) => {
 function deserializeFunctions(r) {
   return Array.isArray(r) ? r.map(deserializeFunctions) : typeof r == "object" && r !== null ? Object.keys(r).reduce((t, n) => (t[n] = deserializeFunctions(r[n]), t), {}) : typeof r == "string" && r.startsWith("_vp-fn_") ? new Function(`return ${r.slice(7)}`)() : r;
 }
-const siteData = deserializeFunctions(JSON.parse('{"lang":"zh-CN","dir":"ltr","title":"一日三餐","description":"记录热菜、冷菜与日常厨房灵感","base":"/cook/","head":[],"router":{"prefetchLinks":true},"appearance":true,"themeConfig":{"logo":"🍳","siteTitle":"一日三餐","nav":[{"text":"首页","link":"/"},{"text":"热菜","link":"/hot-dishes"},{"text":"冷菜","link":"/cold-dishes"},{"text":"关于我","link":"/about"}],"sidebar":{"/hot-dishes":[{"text":"热菜","items":[{"text":"热菜首页","link":"/hot-dishes"}]}],"/cold-dishes":[{"text":"冷菜","items":[{"text":"冷菜首页","link":"/cold-dishes"}]}],"/about":[{"text":"关于我","items":[{"text":"关于我","link":"/about"}]}]},"socialLinks":[{"icon":"github","link":"https://github.com"}],"footer":{"message":"慢慢做饭，好好吃饭。","copyright":"Copyright © 2026 一日三餐"},"outline":"deep","search":{"provider":"local"}},"locales":{},"scrollOffset":134,"cleanUrls":true}'));
+const siteData = deserializeFunctions(JSON.parse('{"lang":"zh-CN","dir":"ltr","title":"一日三餐","description":"记录热菜、冷菜与日常厨房灵感","base":"/","head":[],"router":{"prefetchLinks":true},"appearance":true,"themeConfig":{"logo":"🍳","siteTitle":"一日三餐","nav":[{"text":"首页","link":"/"},{"text":"热菜","link":"/hot-dishes"},{"text":"冷菜","link":"/cold-dishes"},{"text":"关于我","link":"/about"}],"sidebar":{"/hot-dishes":[{"text":"热菜","items":[{"text":"热菜首页","link":"/hot-dishes"}]}],"/cold-dishes":[{"text":"冷菜","items":[{"text":"冷菜首页","link":"/cold-dishes"}]}],"/about":[{"text":"关于我","items":[{"text":"关于我","link":"/about"}]}]},"socialLinks":[{"icon":"github","link":"https://github.com"}],"footer":{"message":"慢慢做饭，好好吃饭。","copyright":"Copyright © 2026 一日三餐"},"outline":"deep","search":{"provider":"local"}},"locales":{},"scrollOffset":134,"cleanUrls":true}'));
 const __vite_import_meta_env__ = {};
 const EXTERNAL_URL_RE = /^(?:[a-z]+:|\/\/)/i;
 const APPEARANCE_KEY = "vitepress-theme-appearance";
@@ -200,7 +200,7 @@ function pathToFile(path) {
   pagePath = pagePath.replace(/\/$/, "/index");
   {
     if (inBrowser) {
-      const base = "/cook/";
+      const base = "/";
       pagePath = sanitizeFileName(pagePath.slice(base.length).replace(/\//g, "_") || "index") + ".md";
       let pageHash = __VP_HASH_MAP__[pagePath.toLowerCase()];
       if (!pageHash) {
@@ -3102,7 +3102,7 @@ const _sfc_main$s = /* @__PURE__ */ defineComponent({
   __name: "VPNavBarSearch",
   __ssrInlineRender: true,
   setup(__props) {
-    const VPLocalSearchBox = defineAsyncComponent(() => import("./VPLocalSearchBox.CB5zTVXS.js"));
+    const VPLocalSearchBox = defineAsyncComponent(() => import("./VPLocalSearchBox.svzmp2Fm.js"));
     const VPAlgoliaSearchBox = () => null;
     const { theme: theme2 } = useData();
     const loaded = ref(false);

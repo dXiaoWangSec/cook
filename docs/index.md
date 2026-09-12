@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: 一日三餐
+  name: 小厨房
   text: 把厨房里的好味道，认真记录下来
   tagline: 家常热菜、清爽冷菜，以及每一次愿意为自己开火的时刻。
   actions:
