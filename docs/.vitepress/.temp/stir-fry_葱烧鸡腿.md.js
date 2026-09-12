@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"葱烧鸡腿的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/葱烧鸡腿.md","filePath":"stir-fry/葱烧鸡腿.md"}');
+const _sfc_main = { name: "stir-fry/葱烧鸡腿.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="葱烧鸡腿的做法" tabindex="-1">葱烧鸡腿的做法 <a class="header-anchor" href="#葱烧鸡腿的做法" aria-label="Permalink to &quot;葱烧鸡腿的做法&quot;">​</a></h1><p>葱烧鸡腿是一道只靠鸡腿和大葱两种核心食材就能完成的下饭家常菜。鸡腿肉外焦里嫩，葱香浓郁，做法简单，全程一口锅，新手也能一次成功。蛋白质丰富，搭配米饭尤其合适，适合工作日快手晚餐。</p><p>预估烹饪难度：★★ 预估卡路里：850 大卡</p><h2 id="必备原料和工具" tabindex="-1">必备原料和工具 <a class="header-anchor" href="#必备原料和工具" aria-label="Permalink to &quot;必备原料和工具&quot;">​</a></h2><ul><li>鸡腿 2 个（约 500g）</li><li>大葱 1 根</li><li>小葱 3-4 根</li><li>生抽（推荐海天金标）</li><li>老抽（上色用，可选）</li><li>蚝油（可选）</li><li>白砂糖</li><li>料酒或花雕酒</li><li>盐</li><li>白胡椒粉</li><li>食用油</li><li>生姜 3-4 片（可选，主要用于去腥提香）</li><li>花椒 10 粒（约 1g，可选，提麻香）</li></ul><h2 id="计算" tabindex="-1">计算 <a class="header-anchor" href="#计算" aria-label="Permalink to &quot;计算&quot;">​</a></h2><p>每次制作前需要确定计划做几份。一份正好够 2 个人吃。</p><p>每份：</p><ul><li>鸡腿 2 个（去骨后净肉约 350g）</li><li>大葱 1 根（约 100g）</li><li>小葱 3-4 根（约 30g）</li><li>生抽 15ml</li><li>老抽 5ml（上色用，没有可以全用生抽）</li><li>蚝油 10ml（可选，没有就多放 5ml 生抽）</li><li>白砂糖 5g</li><li>料酒 10ml</li><li>盐 2-3g</li><li>白胡椒粉 1g</li><li>食用油 15-20ml</li></ul><h2 id="操作" tabindex="-1">操作 <a class="header-anchor" href="#操作" aria-label="Permalink to &quot;操作&quot;">​</a></h2><ol><li>鸡腿去骨：用剪刀从鸡腿大的那头伸进去，贴着骨头把肉剪开，再沿骨剪两下把骨肉分离，最后把骨头整根抽出。比用刀去骨更安全。</li><li>去骨后的鸡腿肉切成 2-3cm 的丁。</li><li>大葱切厚片（约 0.5cm 厚），小葱切 1cm 长的小段。</li><li>鸡腿丁加入 10ml 料酒、5ml 生抽、2g 盐、1g 白胡椒粉抓匀，腌制 10 分钟。</li><li>取一个小碗调好料汁：10ml 生抽 + 5ml 老抽 + 10ml 蚝油 + 5g 糖，搅匀备用。</li><li>热锅，锅内放入 15-20ml 食用油。</li><li>放入姜片和花椒，保持小火炸到姜片微微焦黄、花椒颜色变深。</li><li>用漏勺把姜片和花椒捞出丢弃，留底油。</li><li>保持中大火，将腌好的鸡腿丁平铺下锅，不要急着翻动。</li><li>等待 2-3 分钟让鸡腿丁底部煎出焦壳，再翻炒到所有面都变色、鸡肉完全断生。</li><li>下入大葱片，保持中大火翻炒 1 分钟炒出葱香。</li><li>倒入调好的料汁，翻炒均匀后盖上锅盖。</li><li>等待 2 分钟让料汁和葱香完全融合到鸡肉里。</li><li>开盖，下入小葱段和 2g 熟白芝麻（可选），翻炒 5-10 秒即可关火出锅。</li></ol><h2 id="附加内容" tabindex="-1">附加内容 <a class="header-anchor" href="#附加内容" aria-label="Permalink to &quot;附加内容&quot;">​</a></h2><h3 id="鸡腿去骨技巧-剪刀法" tabindex="-1">鸡腿去骨技巧（剪刀法） <a class="header-anchor" href="#鸡腿去骨技巧-剪刀法" aria-label="Permalink to &quot;鸡腿去骨技巧（剪刀法）&quot;">​</a></h3><ol><li>把鸡腿洗干净，用厨房纸吸干表面水分。</li><li>从鸡腿较粗的一头找到骨头的末端。</li><li>用剪刀尖贴着骨头剪开外层的皮和肉，沿着骨头一侧剪到底。</li><li>把鸡腿翻个面，沿骨头的另一侧继续剪。</li><li>用手指把肉和骨头之间的连接处剥开。</li><li>找到骨头的关节处剪断，把骨头整根抽出。</li></ol><p>整个过程不需要用刀，比传统的&quot;片开剔骨&quot;法安全很多，新手也能一次成功。</p><h3 id="关于-只需葱和鸡腿" tabindex="-1">关于&quot;只需葱和鸡腿&quot; <a class="header-anchor" href="#关于-只需葱和鸡腿" aria-label="Permalink to &quot;关于&quot;只需葱和鸡腿&quot;&quot;">​</a></h3><p>这道菜的核心是葱和鸡腿，但只靠这两样会缺少层次。视频中使用的姜、花椒、蚝油、老抽、白芝麻都是为了让葱香和鸡香更立体。</p><ul><li><strong>极简版</strong>：只用葱 + 鸡腿 + 盐 + 生抽 + 糖也能做出来，但葱香会比较单一。</li><li><strong>推荐版</strong>：加上姜、花椒、蚝油，香味会丰富很多。</li><li><strong>完美版</strong>：再加点老抽上色 + 熟白芝麻点缀，卖相和口感都能上一个台阶。</li></ul><h3 id="储存与回热" tabindex="-1">储存与回热 <a class="header-anchor" href="#储存与回热" aria-label="Permalink to &quot;储存与回热&quot;">​</a></h3><ol><li>冷藏保存：密封后放冰箱冷藏，可保存 2 天。</li><li>冷冻保存：放凉后分装冷冻，可保存 1 个月。</li><li>回热方式：微波炉中火加热 2 分钟，或回锅加一点点水翻炒。</li></ol><p>如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。</p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("stir-fry/葱烧鸡腿.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ____ = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ____ as default
+};

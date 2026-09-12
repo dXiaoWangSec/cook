@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"空气炸锅脆皮现腌炸鸡的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md","filePath":"stir-fry/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md"}');
+const _sfc_main = { name: "stir-fry/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="空气炸锅脆皮现腌炸鸡的做法" tabindex="-1">空气炸锅脆皮现腌炸鸡的做法 <a class="header-anchor" href="#空气炸锅脆皮现腌炸鸡的做法" aria-label="Permalink to &quot;空气炸锅脆皮现腌炸鸡的做法&quot;">​</a></h1><p>空气炸锅炸鸡是一道先腌后炸的家常肉菜，外壳酥脆、内里多汁，调味可以按口味灵活切换。鸡翅富含优质蛋白和脂肪，适合作为正餐主菜或加餐。实操约 55-70 分钟（含一次裹粉；若选二次裹粉时约 70-90 分钟），如追求最佳效果，可冷藏腌制过夜（提前一天准备，第二天再炸）。</p><p>预估烹饪难度：★★★★</p><p>预估卡路里：700 大卡</p><h2 id="必备原料和工具" tabindex="-1">必备原料和工具 <a class="header-anchor" href="#必备原料和工具" aria-label="Permalink to &quot;必备原料和工具&quot;">​</a></h2><ul><li>新鲜鸡翅中</li><li>生抽</li><li>蒜粉</li><li>paprika（红甜椒粉）</li><li>洋葱粉</li><li>黑胡椒粉</li><li>中筋面粉</li><li>淀粉（玉米淀粉或土豆淀粉均可）</li><li>食用油（用于喷涂或刷涂）</li><li>空气炸锅</li><li>酸奶或牛奶（可选，帮助肉质更滑嫩）</li><li>鸡蛋（可选，帮助形成更饱满的外壳）</li><li>泡打粉（可选，帮助形成更酥脆的外壳）</li></ul><h2 id="计算" tabindex="-1">计算 <a class="header-anchor" href="#计算" aria-label="Permalink to &quot;计算&quot;">​</a></h2><p>每次制作前需要确定计划做几份。本菜谱按 1 份（6 个鸡翅中，约 300g）编写，适合大多数空气炸锅一层平铺。</p><p>1 份：</p><ul><li>鸡翅中 6 个（约 300g）</li><li>生抽 15ml</li><li>酸奶或牛奶 5ml（可选）</li><li>鸡蛋 1 个（可选，用于裹浆）</li><li>蒜粉 13g</li><li>paprika 10g（红甜椒粉）</li><li>洋葱粉 5g</li><li>黑胡椒粉 5g</li><li>中筋面粉 60g</li><li>淀粉 30g</li><li>泡打粉 1g</li><li>食用油 5ml</li></ul><h2 id="操作" tabindex="-1">操作 <a class="header-anchor" href="#操作" aria-label="Permalink to &quot;操作&quot;">​</a></h2><h3 id="腌制鸡翅-提前一晚" tabindex="-1">腌制鸡翅（提前一晚） <a class="header-anchor" href="#腌制鸡翅-提前一晚" aria-label="Permalink to &quot;腌制鸡翅（提前一晚）&quot;">​</a></h3><ol><li>鸡翅中清洗后擦干水分，每个鸡翅两面各划 2 刀，方便入味。</li><li>调制腌料：生抽 15ml、蒜粉 8g、红甜椒粉 5g、洋葱粉 3g、黑胡椒粉 3g，牛奶或希腊酸奶 5ml（可选，让鸡肉更滑嫩）搅拌均匀。</li><li>将腌料和鸡翅中一起放到大 zip 保鲜袋里充分搅拌按摩，在冰箱里静置一晚。</li></ol><h3 id="裹粉准备" tabindex="-1">裹粉准备 <a class="header-anchor" href="#裹粉准备" aria-label="Permalink to &quot;裹粉准备&quot;">​</a></h3><ol start="4"><li>裹粉：中筋面粉 60g、淀粉 30g、蒜粉 5g、红甜椒粉 5g、洋葱粉 2g、黑胡椒粉 2g、泡打粉 1g（可选，让外壳更酥脆）搅拌均匀。</li><li>裹浆（可选）：鸡蛋 1 个，牛奶或水 5ml，充分打散。</li></ol><h3 id="裹粉" tabindex="-1">裹粉 <a class="header-anchor" href="#裹粉" aria-label="Permalink to &quot;裹粉&quot;">​</a></h3><ol start="6"><li>裹粉：将鸡翅中抖干水分，放入裹粉中轻轻按压，抖落多余的粉，一旁静置 10 分钟。</li><li>裹浆（可选）：如想要更饱满的外壳，可以再裹一层浆，然后重复裹粉步骤。 <ul><li>将裹粉静置后的鸡翅放入裹浆，然后轻轻抖落多余的浆。</li><li>再次放入裹粉，轻轻按压，抖落多余的粉。</li><li>一旁静置 20 分钟（如有条件可以更久一点，外壳更牢固不易脱落）。</li></ul></li></ol><h3 id="炸制" tabindex="-1">炸制 <a class="header-anchor" href="#炸制" aria-label="Permalink to &quot;炸制&quot;">​</a></h3><ol start="8"><li>空气炸锅预热到 180°C，预热 5 分钟。</li><li>炸篮内刷薄油，鸡皮面朝下，鸡翅上喷或者刷薄油。</li><li>设定空气炸锅 180°C，先炸 10 分钟。</li><li>打开炸篮翻面，在鸡翅表面补喷或者刷薄油，再以 180°C 炸 6 分钟。</li><li>观察鸡皮颜色，并用牙签扎一下最厚的部分，看是否有血水流出。</li><li>如需要再以 200°C 炸 1-2 分钟补脆上色（可迭代进行，先炸 1 分钟观察再决定是否继续）。</li></ol><h2 id="附加内容" tabindex="-1">附加内容 <a class="header-anchor" href="#附加内容" aria-label="Permalink to &quot;附加内容&quot;">​</a></h2><ul><li>本菜谱也可以用来炸带骨鸡腿，只需相应调整配料的用量和炸制的时间。</li><li>蒜粉、红甜椒粉和洋葱粉可以根据个人口味调整用量。</li><li>想做辣味：在裹粉中加入辣椒粉 3g，或在出锅后撒辣椒面 2g。</li><li>想做孜然味：在出锅后撒孜然粉 2g 和白芝麻 2g。</li><li>不建议鸡翅叠放，会导致接触面受热不足，外壳不够脆。</li></ul><p>如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。</p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("stir-fry/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const __________ = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  __________ as default
+};

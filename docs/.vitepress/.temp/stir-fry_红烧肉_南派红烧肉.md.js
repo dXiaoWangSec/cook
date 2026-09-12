@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"南派红烧肉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/红烧肉/南派红烧肉.md","filePath":"stir-fry/红烧肉/南派红烧肉.md"}');
+const _sfc_main = { name: "stir-fry/红烧肉/南派红烧肉.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="南派红烧肉的做法" tabindex="-1">南派红烧肉的做法 <a class="header-anchor" href="#南派红烧肉的做法" aria-label="Permalink to &quot;南派红烧肉的做法&quot;">​</a></h1><p>这道红烧肉成菜色泽红亮，肥肉入口即化、瘦肉酥烂不柴，咸中带甜，是典型的南方甜口风味。五花肉提供优质蛋白和丰富的胶原蛋白，香辛料还能去腥暖胃。制作虽需熬糖色与慢炖，但每一步都拆解得清晰易懂，新手跟着操作也能成功，全程约 1.5 小时即可端上桌。</p><p>预估烹饪难度：★★★★</p><p>预估卡路里：3248 大卡</p><h2 id="必备原料和工具" tabindex="-1">必备原料和工具 <a class="header-anchor" href="#必备原料和工具" aria-label="Permalink to &quot;必备原料和工具&quot;">​</a></h2><ul><li>注：如果有可能，请尽量把刀磨的锋利一些。</li><li>工具：<code>锅</code>（砂锅为宜，铝锅其次，高压锅也可以，最好不要铁锅、铜锅）</li><li>主料：<code>五花肉</code></li><li>辅料：<code>油</code>、<code>冰糖</code>、<code>老抽</code>、<code>料酒</code>、<code>香叶</code>、<code>八角</code>、<code>生姜</code>、<code>盐</code>、<code>葱</code>、<code>开水</code>、<code>凉水</code>、<code>蒜</code>、<code>花椒</code></li></ul><h2 id="计算" tabindex="-1">计算 <a class="header-anchor" href="#计算" aria-label="Permalink to &quot;计算&quot;">​</a></h2><p>一份正好够 2-3 人吃（1 人食用建议所有剂量减半）。</p><ul><li>猪五花肉：1000g（约 2 斤）。<em>注：生肉烹饪后缩水脱脂严重，此分量最终出肉量约满足 2-3 人正常饭量。如仅 1 人食用，建议所有食材剂量减半。</em></li><li>油：100-150ml，色拉油、猪油、花生油都可以</li><li>姜： 6 片</li><li>小葱：约 30g（3-4 根），葱白切段备用</li><li>大蒜：约 25g（5-6 瓣），中间切开备用</li><li>冰糖：50g（约大拇指甲盖大小的碎单晶冰糖 15 块）。如果上一步炒糖色已经使用了 50g，此处的 50g 为炖煮时二次调味使用，可根据对&quot;南派甜口&quot;的接受度调整至 30g。</li><li>白砂糖：30g</li><li>老抽：15ml</li><li>料酒：总量 30ml（其中 20ml 用于前期焯水去腥，10ml 用于后期炖煮提鲜）</li><li>凉水：没过食材的量即可，看锅大小准备</li><li>开水：没过食材的量即可，看锅大小准备</li><li>香叶：4 片</li><li>八角：3 个</li><li>盐：2-3g</li><li>花椒：10g</li></ul><h2 id="操作" tabindex="-1">操作 <a class="header-anchor" href="#操作" aria-label="Permalink to &quot;操作&quot;">​</a></h2><p>建议在此之前查看炒<a href="./../../condiment/简易版炒糖色">糖色</a>教程</p><ol><li><code>猪五花肉</code>先不切小块，切成能放入锅中的大块（约 5–6cm 宽）即可</li><li><code>生姜</code>切片（每片厚度约 3mm ）</li><li><code>开水</code>烧开</li><li><code>凉水</code>自来水即可</li><li><code>小葱</code>小葱白色的部分<code>葱白</code>切成小段（小葱最佳，大葱也可以）</li><li><code>蒜</code>中间切开，不要拍扁，否则难以捞出以至最后<code>收汁</code>时影响味道</li><li>请将辅料分为两个&quot;预备包&quot;：</li></ol><ul><li><strong>A包（去腥用）</strong>：2 片姜、2 段葱段。</li><li><strong>B包（炖煮用）</strong>：剩下的 4 片姜、葱白、蒜瓣、花椒、八角、香叶，统一放入一个小碗中备用。</li></ul><ol start="8"><li>凉水锅中放入五花肉大块，加入 <strong>20ml 料酒</strong> 与 <strong>A包</strong>（2 片姜、2 段葱段），煮 15 分钟去掉血腥，捞出来后洗干净；</li><li>将焯过水的五花肉捞出，稍微放凉（不烫手即可），切成边长约 <strong>3cm × 3cm × 3cm</strong> 的正方体块（焯水后肉质收紧，此时切块比生肉时更容易且成品大小更均匀。3cm 切块最终成品约为 2.5cm，是最适宜入口且容易烧透的尺寸）</li><li>另起锅炒<a href="./../../condiment/简易版炒糖色">糖色</a>，注意：<strong>在此菜谱中，请采用其中提到的&quot;操作 2&quot;来制作</strong>，即在糖液起密集小泡时，迅速将 <strong>B包</strong>（生姜、葱白、蒜、花椒、八角、香叶）倒入锅中爆香。</li><li>爆出香味后（约 5-10 秒内），<strong>先不要加开水</strong>，而是立刻将焯过水的<code>五花肉</code>倒入锅中<code>大火</code>翻炒，让肉块均匀裹上糖色并煸炒出油脂。待闻到肉香后，再倒入开水至没过全部肉，盖上锅盖，转中小火炖煮 50 分钟-60 分钟（高压锅则为 40 分钟）；</li><li>加入 <strong>10ml 料酒</strong>；</li><li>盖上锅盖煮至沸腾后，每隔 25 分钟打开盖子将浮在表面的油和沫捞出；</li><li>当水的高度减至肉最高的高度与锅底高度的 3/5 时，转中火，并捞出除肉和水以外的所有辅料，开始收汁；</li><li>打开锅盖，待汤汁快没有的时粘稠状出锅（切记不可收干）；</li></ol><h2 id="附加内容" tabindex="-1">附加内容 <a class="header-anchor" href="#附加内容" aria-label="Permalink to &quot;附加内容&quot;">​</a></h2><p>如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。</p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("stir-fry/红烧肉/南派红烧肉.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const _____ = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  _____ as default
+};

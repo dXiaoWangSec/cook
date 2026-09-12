@@ -1,0 +1,24 @@
+import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const _imports_0 = "/assets/%E6%88%90%E5%93%81.ChK9q_DH.jpeg";
+const _imports_1 = "/assets/%E6%88%90%E5%93%812.9mm1BE8N.png";
+const _imports_2 = "/assets/%E7%94%B0%E8%9E%BA.jGyNZlff.png";
+const _imports_3 = "/assets/%E7%B4%AB%E8%8B%8F%E5%8F%B6.DqbODr-Z.png";
+const _imports_4 = "/assets/%E8%96%84%E8%8D%B7%E5%8F%B6.PzbJsUkO.png";
+const __pageData = JSON.parse('{"title":"田螺酿的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/田螺酿/田螺酿.md","filePath":"stir-fry/田螺酿/田螺酿.md"}');
+const _sfc_main = { name: "stir-fry/田螺酿/田螺酿.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="田螺酿的做法" tabindex="-1">田螺酿的做法 <a class="header-anchor" href="#田螺酿的做法" aria-label="Permalink to &quot;田螺酿的做法&quot;">​</a></h1><p><img${ssrRenderAttr("src", _imports_0)} alt="田螺酿成品"><img${ssrRenderAttr("src", _imports_1)} alt="田螺酿成品2"></p><p>田螺酿是阳朔“十八酿”之首，螺肉韧而紧致、猪肉嫩滑，紫苏薄荷清香扑鼻，曾登上《舌尖上的中国 2》。富含蛋白质和多种微量元素，螺肉与猪肉搭配营养互补。这道菜步骤稍多，对新手有一定挑战，需提前半天让田螺吐沙，正式制作约 40 分钟，适合节假日全家一起动手。</p><p>预估烹饪难度：★★★★</p><p>预估卡路里：533 大卡</p><h2 id="必备原料和工具" tabindex="-1">必备原料和工具 <a class="header-anchor" href="#必备原料和工具" aria-label="Permalink to &quot;必备原料和工具&quot;">​</a></h2><ul><li>大田螺（乒乓球大小，约 20-25 个，上午买回放一下午吐沙）</li><li>猪肉（250g，肥瘦比例 3:7 的前夹肉最佳）</li><li>新鲜薄荷叶（一小把，点睛之笔）</li><li>紫苏叶（一小把，与田螺是绝配）</li><li>生姜（1 小块）</li><li>葱（2 根）</li><li>桂林三花酒</li><li>生抽</li><li>食盐</li><li>食用油</li><li>酸笋（可选，50g）</li><li>大蒜（可选，4-5 瓣）</li><li>干辣椒（可选，3-4 个）</li><li>蚝油（可选）</li><li>淀粉（可选）</li><li>白胡椒粉（可选）</li></ul><h2 id="计算" tabindex="-1">计算 <a class="header-anchor" href="#计算" aria-label="Permalink to &quot;计算&quot;">​</a></h2><p>每份（2-3 人）：</p><ul><li>大田螺 20 个（约 1000g）</li><li>猪肉 250g</li><li>新鲜薄荷叶 10g</li><li>紫苏叶 10g</li><li>生姜 1 小块（约 15g）</li><li>葱 2 根（约 30g）</li><li>桂林三花酒 15ml</li><li>生抽 30ml（其中 15ml 调馅、15ml 调味汤汁）</li><li>食盐 5g</li><li>食用油 30ml</li><li>酸笋 50g（可选）</li><li>大蒜 5 瓣（可选，约 20g）</li><li>干辣椒 4 个（可选）</li><li>蚝油 10ml（可选）</li><li>淀粉 10g（可选）</li><li>白胡椒粉 2g（可选）</li></ul><h2 id="操作" tabindex="-1">操作 <a class="header-anchor" href="#操作" aria-label="Permalink to &quot;操作&quot;">​</a></h2><h3 id="吐沙-提前半天" tabindex="-1">吐沙（提前半天） <a class="header-anchor" href="#吐沙-提前半天" aria-label="Permalink to &quot;吐沙（提前半天）&quot;">​</a></h3><ol><li>上午买回田螺，放入清水盆中，静置一下午吐沙</li><li>可在水中滴几滴香油（或者芥末~）加速吐沙</li></ol><h3 id="处理田螺" tabindex="-1">处理田螺 <a class="header-anchor" href="#处理田螺" aria-label="Permalink to &quot;处理田螺&quot;">​</a></h3><p><img${ssrRenderAttr("src", _imports_2)} alt="田螺"></p><ol><li>用刷子将田螺外壳刷洗干净（这一步可以时间久一些）</li><li>用老虎钳或菜刀剪去田螺尾部（约剪掉 1/3 到一半）</li><li>大锅烧水，水开后放入田螺焯烫 1-2 分钟（时间不可太久，螺肉会老）</li><li>捞出后用牙签挑出螺肉，去掉螺盖和黑色泥肠</li><li>螺壳用水冲洗干净，甩干水分备用</li></ol><h3 id="制作馅料" tabindex="-1">制作馅料 <a class="header-anchor" href="#制作馅料" aria-label="Permalink to &quot;制作馅料&quot;">​</a></h3><ol><li>螺肉用盐抓洗干净，剁成碎粒（不要剁成泥，保留颗粒感才有嚼头）</li><li>猪肉剁成肉末</li><li>薄荷叶、紫苏叶切碎，姜切末，葱切葱花</li></ol><p><img${ssrRenderAttr("src", _imports_3)} alt="紫苏叶"><img${ssrRenderAttr("src", _imports_4)} alt="薄荷叶"></p><ol start="4"><li>将螺肉碎、猪肉末、薄荷碎、紫苏碎、姜末、葱花放入碗中</li><li>加入三花酒 15ml、生抽 15ml、食盐 3g</li><li>可选加入：蚝油 10ml、白胡椒粉 2g、淀粉 10g</li><li>朝一个方向搅拌至馅料粘稠上劲</li><li>图省事上面的所有东西直接放入打肉机直接打。</li></ol><h3 id="酿制" tabindex="-1">酿制 <a class="header-anchor" href="#酿制" aria-label="Permalink to &quot;酿制&quot;">​</a></h3><ol><li>将馅料用筷子塞入田螺壳中，尽量塞满塞紧，但不要撑破螺壳</li><li>依次酿完所有田螺</li></ol><h3 id="焖煮" tabindex="-1">焖煮 <a class="header-anchor" href="#焖煮" aria-label="Permalink to &quot;焖煮&quot;">​</a></h3><ol><li>热锅，倒入 30ml 食用油，可选放入酸笋和干辣椒炒出香味</li><li>倒入清水或高汤约 300ml，加生抽 15ml、食盐 2g，大火烧开</li><li>将酿好的田螺放入锅中，盖上锅盖，中小火焖煮 10 分钟</li><li>焖煮过程中不要频繁翻动，等肉馅六七成熟定型后再轻轻翻动</li><li>开盖，放入剩余的新鲜薄荷叶和紫苏叶，再焖 2-3 分钟</li><li>大火收汁至汤汁浓稠，即可出锅</li></ol><h2 id="附加内容" tabindex="-1">附加内容 <a class="header-anchor" href="#附加内容" aria-label="Permalink to &quot;附加内容&quot;">​</a></h2><ul><li>食用方法：先吮吸壳内汤汁，再用牙签挑出或用嘴猛吸出肉馅——&quot;嗦螺贴唇猛吸气&quot;</li><li>螺肉和猪肉最佳比例为 1:1</li><li>薄荷是这道菜的精华，紫苏配田螺是绝配，两者至少要有其一</li><li>没有三花酒可用料酒代替，但风味会打折扣</li><li>焯水时间一定要短，久了螺肉变老发硬</li><li>搭配冰镇漓泉啤酒是阳朔当地的标准吃法</li><li>参考资料：<a href="https://baike.baidu.com/item/%E9%98%B3%E6%9C%94%E7%94%B0%E8%9E%BA%E9%85%BF/3035090" target="_blank" rel="noreferrer">阳朔田螺酿_百度百科</a></li></ul><p>如果您遵循本指南的制作流程而发现有问题或可以改进的流程，请提出 Issue 或 Pull request 。</p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("stir-fry/田螺酿/田螺酿.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const ___ = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  ___ as default
+};
