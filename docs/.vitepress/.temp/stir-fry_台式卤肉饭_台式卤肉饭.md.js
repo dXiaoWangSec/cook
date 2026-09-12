@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/1.c9pDKEhI.jpg";
+const _imports_0 = "/cook/assets/1.c9pDKEhI.jpg";
 const __pageData = JSON.parse('{"title":"台式卤肉饭的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/台式卤肉饭/台式卤肉饭.md","filePath":"stir-fry/台式卤肉饭/台式卤肉饭.md"}');
 const _sfc_main = { name: "stir-fry/台式卤肉饭/台式卤肉饭.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

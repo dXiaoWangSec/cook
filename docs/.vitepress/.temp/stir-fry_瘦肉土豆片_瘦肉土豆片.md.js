@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E7%98%A6%E8%82%89%E5%9C%9F%E8%B1%86%E7%89%87.BOP1nC-P.jpg";
+const _imports_0 = "/cook/assets/%E7%98%A6%E8%82%89%E5%9C%9F%E8%B1%86%E7%89%87.BOP1nC-P.jpg";
 const __pageData = JSON.parse('{"title":"瘦肉土豆片的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/瘦肉土豆片/瘦肉土豆片.md","filePath":"stir-fry/瘦肉土豆片/瘦肉土豆片.md"}');
 const _sfc_main = { name: "stir-fry/瘦肉土豆片/瘦肉土豆片.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

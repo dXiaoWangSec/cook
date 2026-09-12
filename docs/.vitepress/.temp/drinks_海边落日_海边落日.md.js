@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E6%B5%B7%E8%BE%B9%E8%90%BD%E6%97%A5.GhPZzz83.jpg";
+const _imports_0 = "/cook/assets/%E6%B5%B7%E8%BE%B9%E8%90%BD%E6%97%A5.GhPZzz83.jpg";
 const __pageData = JSON.parse('{"title":"海边落日的做法","description":"","frontmatter":{},"headers":[],"relativePath":"drinks/海边落日/海边落日.md","filePath":"drinks/海边落日/海边落日.md"}');
 const _sfc_main = { name: "drinks/海边落日/海边落日.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

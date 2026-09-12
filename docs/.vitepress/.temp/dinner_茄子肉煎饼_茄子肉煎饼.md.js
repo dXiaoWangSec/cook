@@ -1,14 +1,14 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC.CRI3Igpn.jpg";
-const _imports_1 = "/assets/1%E8%8C%84%E7%89%87%E8%82%89%E7%89%87.DgqjnOzk.jpg";
-const _imports_2 = "/assets/2%E7%B1%B3%E7%B2%89250g.BjmnAlYW.jpg";
-const _imports_3 = "/assets/3%E7%B1%B3%E7%B2%89%E9%9D%A2%E7%B2%89%E9%B8%A1%E8%9B%8B.T4ZBbU2T.jpg";
-const _imports_4 = "/assets/4%E6%B7%B7%E5%90%88.CiDLWxqj.jpg";
-const _imports_5 = "/assets/5%E8%B5%B7%E9%94%85%E7%83%A7%E6%B2%B9.D5FrxGy6.jpg";
-const _imports_6 = "/assets/6%E5%BC%80%E5%A7%8B%E7%85%8E.DCG9CCzZ.jpg";
-const _imports_7 = "/assets/7%E6%92%92%E7%9B%90%E5%87%86%E5%A4%87%E8%B5%B7%E9%94%85.iOtIDDiQ.jpg";
+const _imports_0 = "/cook/assets/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC.CRI3Igpn.jpg";
+const _imports_1 = "/cook/assets/1%E8%8C%84%E7%89%87%E8%82%89%E7%89%87.DgqjnOzk.jpg";
+const _imports_2 = "/cook/assets/2%E7%B1%B3%E7%B2%89250g.BjmnAlYW.jpg";
+const _imports_3 = "/cook/assets/3%E7%B1%B3%E7%B2%89%E9%9D%A2%E7%B2%89%E9%B8%A1%E8%9B%8B.T4ZBbU2T.jpg";
+const _imports_4 = "/cook/assets/4%E6%B7%B7%E5%90%88.CiDLWxqj.jpg";
+const _imports_5 = "/cook/assets/5%E8%B5%B7%E9%94%85%E7%83%A7%E6%B2%B9.D5FrxGy6.jpg";
+const _imports_6 = "/cook/assets/6%E5%BC%80%E5%A7%8B%E7%85%8E.DCG9CCzZ.jpg";
+const _imports_7 = "/cook/assets/7%E6%92%92%E7%9B%90%E5%87%86%E5%A4%87%E8%B5%B7%E9%94%85.iOtIDDiQ.jpg";
 const __pageData = JSON.parse('{"title":"茄子肉煎饼的做法","description":"","frontmatter":{},"headers":[],"relativePath":"dinner/茄子肉煎饼/茄子肉煎饼.md","filePath":"dinner/茄子肉煎饼/茄子肉煎饼.md"}');
 const _sfc_main = { name: "dinner/茄子肉煎饼/茄子肉煎饼.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

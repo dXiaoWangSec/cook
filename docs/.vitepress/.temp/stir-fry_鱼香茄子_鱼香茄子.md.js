@@ -1,13 +1,13 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/yxqz1.DSYygzxQ.jpg";
-const _imports_1 = "/assets/yxqz2.Bkj0oyCX.jpg";
-const _imports_2 = "/assets/yxqz3.C5qI-1hs.jpg";
-const _imports_3 = "/assets/yxqz4.BkgtfmTQ.jpg";
-const _imports_4 = "/assets/yxqz5.BD6dsnaT.jpg";
-const _imports_5 = "/assets/yxqz6.C-USj1zT.jpg";
-const _imports_6 = "/assets/yxqz7.Cw5JAkVi.jpg";
+const _imports_0 = "/cook/assets/yxqz1.DSYygzxQ.jpg";
+const _imports_1 = "/cook/assets/yxqz2.Bkj0oyCX.jpg";
+const _imports_2 = "/cook/assets/yxqz3.C5qI-1hs.jpg";
+const _imports_3 = "/cook/assets/yxqz4.BkgtfmTQ.jpg";
+const _imports_4 = "/cook/assets/yxqz5.BD6dsnaT.jpg";
+const _imports_5 = "/cook/assets/yxqz6.C-USj1zT.jpg";
+const _imports_6 = "/cook/assets/yxqz7.Cw5JAkVi.jpg";
 const __pageData = JSON.parse('{"title":"鱼香茄子的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/鱼香茄子/鱼香茄子.md","filePath":"stir-fry/鱼香茄子/鱼香茄子.md"}');
 const _sfc_main = { name: "stir-fry/鱼香茄子/鱼香茄子.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

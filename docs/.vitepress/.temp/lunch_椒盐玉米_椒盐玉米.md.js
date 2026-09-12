@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E6%A4%92%E7%9B%90%E7%8E%89%E7%B1%B3.H1rx2sZx.jpeg";
+const _imports_0 = "/cook/assets/%E6%A4%92%E7%9B%90%E7%8E%89%E7%B1%B3.H1rx2sZx.jpeg";
 const __pageData = JSON.parse('{"title":"椒盐玉米的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/椒盐玉米/椒盐玉米.md","filePath":"lunch/椒盐玉米/椒盐玉米.md"}');
 const _sfc_main = { name: "lunch/椒盐玉米/椒盐玉米.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

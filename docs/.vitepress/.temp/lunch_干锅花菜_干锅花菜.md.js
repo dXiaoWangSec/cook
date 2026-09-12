@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E5%B9%B2%E9%94%85%E8%8A%B1%E8%8F%9C.CLbh-Kpk.jpg";
+const _imports_0 = "/cook/assets/%E5%B9%B2%E9%94%85%E8%8A%B1%E8%8F%9C.CLbh-Kpk.jpg";
 const __pageData = JSON.parse('{"title":"干锅花菜的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/干锅花菜/干锅花菜.md","filePath":"lunch/干锅花菜/干锅花菜.md"}');
 const _sfc_main = { name: "lunch/干锅花菜/干锅花菜.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

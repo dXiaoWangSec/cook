@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E5%B9%BF%E5%BC%8F%E8%90%9D%E5%8D%9C%E7%89%9B%E8%85%A9.CyBckU9Y.webp";
+const _imports_0 = "/cook/assets/%E5%B9%BF%E5%BC%8F%E8%90%9D%E5%8D%9C%E7%89%9B%E8%85%A9.CyBckU9Y.webp";
 const __pageData = JSON.parse('{"title":"广式萝卜牛腩的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/广式萝卜牛腩/广式萝卜牛腩.md","filePath":"stir-fry/广式萝卜牛腩/广式萝卜牛腩.md"}');
 const _sfc_main = { name: "stir-fry/广式萝卜牛腩/广式萝卜牛腩.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

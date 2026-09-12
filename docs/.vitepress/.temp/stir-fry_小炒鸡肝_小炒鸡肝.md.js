@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E6%88%90%E5%93%81.BJkBKiMu.jpg";
+const _imports_0 = "/cook/assets/%E6%88%90%E5%93%81.BJkBKiMu.jpg";
 const __pageData = JSON.parse('{"title":"小炒鸡肝的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/小炒鸡肝/小炒鸡肝.md","filePath":"stir-fry/小炒鸡肝/小炒鸡肝.md"}');
 const _sfc_main = { name: "stir-fry/小炒鸡肝/小炒鸡肝.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

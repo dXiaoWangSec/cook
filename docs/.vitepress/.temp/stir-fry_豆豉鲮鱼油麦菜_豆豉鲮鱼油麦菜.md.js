@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E8%B1%86%E8%B1%89%E9%B2%AE%E9%B1%BC%E6%B2%B9%E9%BA%A6%E8%8F%9C%E6%88%90%E5%93%81.DKe1NHZu.jpg";
+const _imports_0 = "/cook/assets/%E8%B1%86%E8%B1%89%E9%B2%AE%E9%B1%BC%E6%B2%B9%E9%BA%A6%E8%8F%9C%E6%88%90%E5%93%81.DKe1NHZu.jpg";
 const __pageData = JSON.parse('{"title":"豆豉鲮鱼油麦菜的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md","filePath":"stir-fry/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md"}');
 const _sfc_main = { name: "stir-fry/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

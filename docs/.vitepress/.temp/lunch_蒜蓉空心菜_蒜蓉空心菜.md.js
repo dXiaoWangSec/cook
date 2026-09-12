@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/1.B8AxhJke.JPG";
+const _imports_0 = "/cook/assets/1.B8AxhJke.JPG";
 const __pageData = JSON.parse('{"title":"蒜蓉空心菜的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/蒜蓉空心菜/蒜蓉空心菜.md","filePath":"lunch/蒜蓉空心菜/蒜蓉空心菜.md"}');
 const _sfc_main = { name: "lunch/蒜蓉空心菜/蒜蓉空心菜.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

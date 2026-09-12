@@ -1,11 +1,11 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD.DXnQAfDe.jpg";
-const _imports_1 = "/assets/step%E2%91%A0%EF%BC%9A%E5%87%86%E5%A4%87%E7%B1%B3%E7%B2%89.BPP27RCD.jpg";
-const _imports_2 = "/assets/step%E2%91%A1%EF%BC%9A%E7%85%B8%E7%82%92%E9%B8%AD%E5%AD%90.D-uOz24t.jpg";
-const _imports_3 = "/assets/step%E2%91%A2%EF%BC%9A%E7%B1%B3%E7%B2%89%E8%A3%B9%E9%B8%AD.ByULBEDU.jpg";
-const _imports_4 = "/assets/step%E2%91%A3%EF%BC%9A%E9%AB%98%E5%8E%8B%E9%94%85%E8%92%B8%E7%85%AE.D0-sllrW.jpg";
+const _imports_0 = "/cook/assets/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD.DXnQAfDe.jpg";
+const _imports_1 = "/cook/assets/step%E2%91%A0%EF%BC%9A%E5%87%86%E5%A4%87%E7%B1%B3%E7%B2%89.BPP27RCD.jpg";
+const _imports_2 = "/cook/assets/step%E2%91%A1%EF%BC%9A%E7%85%B8%E7%82%92%E9%B8%AD%E5%AD%90.D-uOz24t.jpg";
+const _imports_3 = "/cook/assets/step%E2%91%A2%EF%BC%9A%E7%B1%B3%E7%B2%89%E8%A3%B9%E9%B8%AD.ByULBEDU.jpg";
+const _imports_4 = "/cook/assets/step%E2%91%A3%EF%BC%9A%E9%AB%98%E5%8E%8B%E9%94%85%E8%92%B8%E7%85%AE.D0-sllrW.jpg";
 const __pageData = JSON.parse('{"title":"湘祁米夫鸭的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/湘祁米夫鸭/湘祁米夫鸭.md","filePath":"stir-fry/湘祁米夫鸭/湘祁米夫鸭.md"}');
 const _sfc_main = { name: "stir-fry/湘祁米夫鸭/湘祁米夫鸭.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

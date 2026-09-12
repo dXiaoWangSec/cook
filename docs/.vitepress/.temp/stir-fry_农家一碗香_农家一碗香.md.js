@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E5%86%9C%E5%AE%B6%E4%B8%80%E7%A2%97%E9%A6%99%E6%88%90%E5%93%81.hzg2AuV9.jpg";
+const _imports_0 = "/cook/assets/%E5%86%9C%E5%AE%B6%E4%B8%80%E7%A2%97%E9%A6%99%E6%88%90%E5%93%81.hzg2AuV9.jpg";
 const __pageData = JSON.parse('{"title":"农家一碗香的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/农家一碗香/农家一碗香.md","filePath":"stir-fry/农家一碗香/农家一碗香.md"}');
 const _sfc_main = { name: "stir-fry/农家一碗香/农家一碗香.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

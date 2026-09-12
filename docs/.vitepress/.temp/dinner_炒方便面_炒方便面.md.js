@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E7%82%92%E6%96%B9%E4%BE%BF%E9%9D%A2.EZyxLe5x.png";
+const _imports_0 = "/cook/assets/%E7%82%92%E6%96%B9%E4%BE%BF%E9%9D%A2.EZyxLe5x.png";
 const __pageData = JSON.parse('{"title":"炒方便面的做法","description":"","frontmatter":{},"headers":[],"relativePath":"dinner/炒方便面/炒方便面.md","filePath":"dinner/炒方便面/炒方便面.md"}');
 const _sfc_main = { name: "dinner/炒方便面/炒方便面.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

@@ -1,9 +1,9 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/assets/%E6%88%90%E5%93%81.BEhA0Eh_.jpeg";
-const _imports_1 = "/assets/%E7%85%8E%E8%87%B3%E8%99%8E%E7%9A%AE%E7%8A%B6.CdV9yjqh.jpeg";
-const _imports_2 = "/assets/%E8%99%BE%E6%BB%91%E9%9D%92%E6%A4%92%E9%85%BF.Bdsrqrqo.jpeg";
+const _imports_0 = "/cook/assets/%E6%88%90%E5%93%81.BEhA0Eh_.jpeg";
+const _imports_1 = "/cook/assets/%E7%85%8E%E8%87%B3%E8%99%8E%E7%9A%AE%E7%8A%B6.CdV9yjqh.jpeg";
+const _imports_2 = "/cook/assets/%E8%99%BE%E6%BB%91%E9%9D%92%E6%A4%92%E9%85%BF.Bdsrqrqo.jpeg";
 const __pageData = JSON.parse('{"title":"青椒酿的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/青椒酿/青椒酿.md","filePath":"stir-fry/青椒酿/青椒酿.md"}');
 const _sfc_main = { name: "stir-fry/青椒酿/青椒酿.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
