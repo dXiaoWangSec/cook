@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/1.C4as9NL5.jpeg";
+const _imports_0 = "/assets/1.C4as9NL5.jpeg";
 const __pageData = JSON.parse('{"title":"醉排骨的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/醉排骨/醉排骨.md","filePath":"stir-fry/醉排骨/醉排骨.md"}');
 const _sfc_main = { name: "stir-fry/醉排骨/醉排骨.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

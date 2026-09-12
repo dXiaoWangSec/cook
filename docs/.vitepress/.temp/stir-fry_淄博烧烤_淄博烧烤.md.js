@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4.7QWv9wtD.jpg";
+const _imports_0 = "/assets/%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4.7QWv9wtD.jpg";
 const __pageData = JSON.parse('{"title":"淄博烧烤的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/淄博烧烤/淄博烧烤.md","filePath":"stir-fry/淄博烧烤/淄博烧烤.md"}');
 const _sfc_main = { name: "stir-fry/淄博烧烤/淄博烧烤.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

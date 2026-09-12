@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/gin-tonic.yzmiOhAj.jpg";
+const _imports_0 = "/assets/gin-tonic.yzmiOhAj.jpg";
 const __pageData = JSON.parse('{"title":"金汤力的做法","description":"","frontmatter":{},"headers":[],"relativePath":"drinks/金汤力/金汤力.md","filePath":"drinks/金汤力/金汤力.md"}');
 const _sfc_main = { name: "drinks/金汤力/金汤力.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

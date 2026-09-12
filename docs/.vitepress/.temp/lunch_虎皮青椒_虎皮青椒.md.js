@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92.WBAJ6o57.jpg";
+const _imports_0 = "/assets/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92.WBAJ6o57.jpg";
 const __pageData = JSON.parse('{"title":"虎皮青椒的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/虎皮青椒/虎皮青椒.md","filePath":"lunch/虎皮青椒/虎皮青椒.md"}');
 const _sfc_main = { name: "lunch/虎皮青椒/虎皮青椒.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

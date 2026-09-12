@@ -1,11 +1,11 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E6%88%90%E5%93%81.ChK9q_DH.jpeg";
-const _imports_1 = "/cook/assets/%E6%88%90%E5%93%812.9mm1BE8N.png";
-const _imports_2 = "/cook/assets/%E7%94%B0%E8%9E%BA.jGyNZlff.png";
-const _imports_3 = "/cook/assets/%E7%B4%AB%E8%8B%8F%E5%8F%B6.DqbODr-Z.png";
-const _imports_4 = "/cook/assets/%E8%96%84%E8%8D%B7%E5%8F%B6.PzbJsUkO.png";
+const _imports_0 = "/assets/%E6%88%90%E5%93%81.ChK9q_DH.jpeg";
+const _imports_1 = "/assets/%E6%88%90%E5%93%812.9mm1BE8N.png";
+const _imports_2 = "/assets/%E7%94%B0%E8%9E%BA.jGyNZlff.png";
+const _imports_3 = "/assets/%E7%B4%AB%E8%8B%8F%E5%8F%B6.DqbODr-Z.png";
+const _imports_4 = "/assets/%E8%96%84%E8%8D%B7%E5%8F%B6.PzbJsUkO.png";
 const __pageData = JSON.parse('{"title":"田螺酿的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/田螺酿/田螺酿.md","filePath":"stir-fry/田螺酿/田螺酿.md"}');
 const _sfc_main = { name: "stir-fry/田螺酿/田螺酿.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

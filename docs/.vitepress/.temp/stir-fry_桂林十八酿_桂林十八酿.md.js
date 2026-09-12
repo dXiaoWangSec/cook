@@ -1,12 +1,12 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/arch.C1Lk4UzP.png";
-const _imports_1 = "/cook/assets/%E8%8B%A6%E7%93%9C%E9%85%BF.BnK00_oT.png";
-const _imports_2 = "/cook/assets/%E8%8C%84%E5%AD%90%E9%85%BF.BEF1Jt8k.png";
-const _imports_3 = "/cook/assets/%E7%AB%B9%E7%AC%8B%E9%85%BF.dHEYEjjv.png";
-const _imports_4 = "/cook/assets/%E6%B2%B9%E8%B1%86%E8%85%90%E9%85%BF.BUPDTouk.png";
-const _imports_5 = "/cook/assets/%E5%8D%97%E7%93%9C%E8%8A%B1%E9%85%BF.C7WKCZet.png";
+const _imports_0 = "/assets/arch.C1Lk4UzP.png";
+const _imports_1 = "/assets/%E8%8B%A6%E7%93%9C%E9%85%BF.BnK00_oT.png";
+const _imports_2 = "/assets/%E8%8C%84%E5%AD%90%E9%85%BF.BEF1Jt8k.png";
+const _imports_3 = "/assets/%E7%AB%B9%E7%AC%8B%E9%85%BF.dHEYEjjv.png";
+const _imports_4 = "/assets/%E6%B2%B9%E8%B1%86%E8%85%90%E9%85%BF.BUPDTouk.png";
+const _imports_5 = "/assets/%E5%8D%97%E7%93%9C%E8%8A%B1%E9%85%BF.C7WKCZet.png";
 const __pageData = JSON.parse('{"title":"桂林十八酿的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/桂林十八酿/桂林十八酿.md","filePath":"stir-fry/桂林十八酿/桂林十八酿.md"}');
 const _sfc_main = { name: "stir-fry/桂林十八酿/桂林十八酿.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

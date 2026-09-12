@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E6%97%A0%E9%AA%A8%E9%B8%A1%E7%88%AA.Dh-sKirS.jpg";
+const _imports_0 = "/assets/%E6%97%A0%E9%AA%A8%E9%B8%A1%E7%88%AA.Dh-sKirS.jpg";
 const __pageData = JSON.parse('{"title":"无骨鸡爪的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/无骨鸡爪/无骨鸡爪.md","filePath":"stir-fry/无骨鸡爪/无骨鸡爪.md"}');
 const _sfc_main = { name: "stir-fry/无骨鸡爪/无骨鸡爪.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

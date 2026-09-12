@@ -1,9 +1,9 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D.CBytmYch.jpg";
-const _imports_1 = "/cook/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D_%E7%84%AF%E6%B0%B4.TppuwfRH.jpg";
-const _imports_2 = "/cook/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D_%E6%92%95.loIzIfy4.jpg";
+const _imports_0 = "/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D.CBytmYch.jpg";
+const _imports_1 = "/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D_%E7%84%AF%E6%B0%B4.TppuwfRH.jpg";
+const _imports_2 = "/assets/%E5%87%89%E6%8B%8C%E9%B8%A1%E4%B8%9D_%E6%92%95.loIzIfy4.jpg";
 const __pageData = JSON.parse('{"title":"凉拌鸡丝的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/凉拌鸡丝/凉拌鸡丝.md","filePath":"stir-fry/凉拌鸡丝/凉拌鸡丝.md"}');
 const _sfc_main = { name: "stir-fry/凉拌鸡丝/凉拌鸡丝.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

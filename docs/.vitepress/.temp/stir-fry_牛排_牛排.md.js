@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E7%89%9B%E6%8E%92.4RNupL7z.jpg";
+const _imports_0 = "/assets/%E7%89%9B%E6%8E%92.4RNupL7z.jpg";
 const __pageData = JSON.parse('{"title":"牛排的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/牛排/牛排.md","filePath":"stir-fry/牛排/牛排.md"}');
 const _sfc_main = { name: "stir-fry/牛排/牛排.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

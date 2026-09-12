@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E6%9F%A0%E6%AA%AC%E6%B0%B4.Bjb64L6l.jpg";
+const _imports_0 = "/assets/%E6%9F%A0%E6%AA%AC%E6%B0%B4.Bjb64L6l.jpg";
 const __pageData = JSON.parse('{"title":"柠檬水的做法","description":"","frontmatter":{},"headers":[],"relativePath":"drinks/柠檬水/柠檬水.md","filePath":"drinks/柠檬水/柠檬水.md"}');
 const _sfc_main = { name: "drinks/柠檬水/柠檬水.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

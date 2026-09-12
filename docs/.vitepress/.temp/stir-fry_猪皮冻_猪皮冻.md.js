@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E7%8C%AA%E7%9A%AE%E5%86%BB.i7XyPoZl.jpg";
+const _imports_0 = "/assets/%E7%8C%AA%E7%9A%AE%E5%86%BB.i7XyPoZl.jpg";
 const __pageData = JSON.parse('{"title":"猪皮冻的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/猪皮冻/猪皮冻.md","filePath":"stir-fry/猪皮冻/猪皮冻.md"}');
 const _sfc_main = { name: "stir-fry/猪皮冻/猪皮冻.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

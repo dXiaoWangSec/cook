@@ -1,12 +1,12 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%89%9B%E8%82%89%E5%92%96%E5%96%B1.DsAOMf43.png";
-const _imports_1 = "/cook/assets/%E7%95%AA%E8%8C%84%E8%93%89.Bti0pLjZ.png";
-const _imports_2 = "/cook/assets/%E7%89%9B%E8%82%89.CAXfbLVE.png";
-const _imports_3 = "/cook/assets/%E6%B2%B9.YWW6G6k-.png";
-const _imports_4 = "/cook/assets/%E5%80%92%E5%85%A5%E7%95%AA%E8%8C%84%E8%93%89.B8ZvRznb.png";
-const _imports_5 = "/cook/assets/%E7%BA%A2.DciF6PzY.png";
+const _imports_0 = "/assets/%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%89%9B%E8%82%89%E5%92%96%E5%96%B1.DsAOMf43.png";
+const _imports_1 = "/assets/%E7%95%AA%E8%8C%84%E8%93%89.Bti0pLjZ.png";
+const _imports_2 = "/assets/%E7%89%9B%E8%82%89.CAXfbLVE.png";
+const _imports_3 = "/assets/%E6%B2%B9.YWW6G6k-.png";
+const _imports_4 = "/assets/%E5%80%92%E5%85%A5%E7%95%AA%E8%8C%84%E8%93%89.B8ZvRznb.png";
+const _imports_5 = "/assets/%E7%BA%A2.DciF6PzY.png";
 const __pageData = JSON.parse('{"title":"巴基斯坦牛肉咖喱的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md","filePath":"stir-fry/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md"}');
 const _sfc_main = { name: "stir-fry/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

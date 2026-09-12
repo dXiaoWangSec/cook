@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E9%A6%99%E8%8F%87%E6%BB%91%E9%B8%A1.BRYJUm68.jpg";
+const _imports_0 = "/assets/%E9%A6%99%E8%8F%87%E6%BB%91%E9%B8%A1.BRYJUm68.jpg";
 const __pageData = JSON.parse('{"title":"香菇滑鸡的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/香菇滑鸡/香菇滑鸡.md","filePath":"stir-fry/香菇滑鸡/香菇滑鸡.md"}');
 const _sfc_main = { name: "stir-fry/香菇滑鸡/香菇滑鸡.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

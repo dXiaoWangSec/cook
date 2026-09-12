@@ -1,10 +1,10 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/1.Bus2MsDy.jpeg";
-const _imports_1 = "/cook/assets/2.D4lE1Fr_.jpeg";
-const _imports_2 = "/cook/assets/3.z1lsT6Pf.jpeg";
-const _imports_3 = "/cook/assets/4.DBQcBcJr.jpeg";
+const _imports_0 = "/assets/1.Bus2MsDy.jpeg";
+const _imports_1 = "/assets/2.D4lE1Fr_.jpeg";
+const _imports_2 = "/assets/3.z1lsT6Pf.jpeg";
+const _imports_3 = "/assets/4.DBQcBcJr.jpeg";
 const __pageData = JSON.parse('{"title":"拔丝土豆的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/拔丝土豆/拔丝土豆.md","filePath":"lunch/拔丝土豆/拔丝土豆.md"}');
 const _sfc_main = { name: "lunch/拔丝土豆/拔丝土豆.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

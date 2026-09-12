@@ -1,16 +1,16 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/1.Bgz54klb.jpg";
-const _imports_1 = "/cook/assets/2.Vc11Xtkp.jpg";
-const _imports_2 = "/cook/assets/3.BdIOAEHM.jpg";
-const _imports_3 = "/cook/assets/4.BQQyo4c4.jpg";
-const _imports_4 = "/cook/assets/5.BcH635Sv.jpg";
-const _imports_5 = "/cook/assets/6.jS_eVMl1.jpg";
-const _imports_6 = "/cook/assets/7.CL_JctHr.jpg";
-const _imports_7 = "/cook/assets/8.yf4aoLb0.jpg";
-const _imports_8 = "/cook/assets/9.BH0JFhyT.jpg";
-const _imports_9 = "/cook/assets/10.DUSl5yB2.jpg";
+const _imports_0 = "/assets/1.Bgz54klb.jpg";
+const _imports_1 = "/assets/2.Vc11Xtkp.jpg";
+const _imports_2 = "/assets/3.BdIOAEHM.jpg";
+const _imports_3 = "/assets/4.BQQyo4c4.jpg";
+const _imports_4 = "/assets/5.BcH635Sv.jpg";
+const _imports_5 = "/assets/6.jS_eVMl1.jpg";
+const _imports_6 = "/assets/7.CL_JctHr.jpg";
+const _imports_7 = "/assets/8.yf4aoLb0.jpg";
+const _imports_8 = "/assets/9.BH0JFhyT.jpg";
+const _imports_9 = "/assets/10.DUSl5yB2.jpg";
 const __pageData = JSON.parse('{"title":"凉拌木耳的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/凉拌木耳/凉拌木耳.md","filePath":"lunch/凉拌木耳/凉拌木耳.md"}');
 const _sfc_main = { name: "lunch/凉拌木耳/凉拌木耳.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

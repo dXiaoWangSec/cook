@@ -1,8 +1,8 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/1.BY3nZ1WY.jpeg";
-const _imports_1 = "/cook/assets/2.LegcK4D4.jpeg";
+const _imports_0 = "/assets/1.BY3nZ1WY.jpeg";
+const _imports_1 = "/assets/2.LegcK4D4.jpeg";
 const __pageData = JSON.parse('{"title":"回锅肉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/回锅肉/回锅肉.md","filePath":"stir-fry/回锅肉/回锅肉.md"}');
 const _sfc_main = { name: "stir-fry/回锅肉/回锅肉.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

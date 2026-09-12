@@ -1,8 +1,8 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/oven.F31hzQ3W.jpg";
-const _imports_1 = "/cook/assets/onepot.CI3bQbd4.png";
+const _imports_0 = "/assets/oven.F31hzQ3W.jpg";
+const _imports_1 = "/assets/onepot.CI3bQbd4.png";
 const __pageData = JSON.parse('{"title":"奶酪培根通心粉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/奶酪培根通心粉/奶酪培根通心粉.md","filePath":"stir-fry/奶酪培根通心粉/奶酪培根通心粉.md"}');
 const _sfc_main = { name: "stir-fry/奶酪培根通心粉/奶酪培根通心粉.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

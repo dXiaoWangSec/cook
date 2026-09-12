@@ -1,12 +1,12 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E5%86%AC%E7%93%9C%E9%85%BF%E8%82%89%E6%88%90%E5%93%81.CHTlh_07.jpg";
-const _imports_1 = "/cook/assets/%E5%86%AC%E7%93%9C%E5%BD%A2%E7%8A%B6.jAiRv1Jz.jpg";
-const _imports_2 = "/cook/assets/%E8%85%8C%E5%88%B6%E5%A5%BD%E7%9A%84%E5%86%AC%E7%93%9C.CBInAl5Z.jpg";
-const _imports_3 = "/cook/assets/%E5%8D%B7%E8%82%89.Dj3OYMsX.jpg";
-const _imports_4 = "/cook/assets/%E6%91%86%E7%9B%98.D91VZt0g.jpg";
-const _imports_5 = "/cook/assets/%E6%89%93%E9%B8%A1%E8%9B%8B.Dx5QfThk.jpg";
+const _imports_0 = "/assets/%E5%86%AC%E7%93%9C%E9%85%BF%E8%82%89%E6%88%90%E5%93%81.CHTlh_07.jpg";
+const _imports_1 = "/assets/%E5%86%AC%E7%93%9C%E5%BD%A2%E7%8A%B6.jAiRv1Jz.jpg";
+const _imports_2 = "/assets/%E8%85%8C%E5%88%B6%E5%A5%BD%E7%9A%84%E5%86%AC%E7%93%9C.CBInAl5Z.jpg";
+const _imports_3 = "/assets/%E5%8D%B7%E8%82%89.Dj3OYMsX.jpg";
+const _imports_4 = "/assets/%E6%91%86%E7%9B%98.D91VZt0g.jpg";
+const _imports_5 = "/assets/%E6%89%93%E9%B8%A1%E8%9B%8B.Dx5QfThk.jpg";
 const __pageData = JSON.parse('{"title":"冬瓜酿肉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/冬瓜酿肉/冬瓜酿肉.md","filePath":"stir-fry/冬瓜酿肉/冬瓜酿肉.md"}');
 const _sfc_main = { name: "stir-fry/冬瓜酿肉/冬瓜酿肉.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/sour_plum_soup.Dv4-ipAe.jpg";
+const _imports_0 = "/assets/sour_plum_soup.Dv4-ipAe.jpg";
 const __pageData = JSON.parse('{"title":"酸梅汤的做法","description":"","frontmatter":{},"headers":[],"relativePath":"drinks/酸梅汤/酸梅汤.md","filePath":"drinks/酸梅汤/酸梅汤.md"}');
 const _sfc_main = { name: "drinks/酸梅汤/酸梅汤.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

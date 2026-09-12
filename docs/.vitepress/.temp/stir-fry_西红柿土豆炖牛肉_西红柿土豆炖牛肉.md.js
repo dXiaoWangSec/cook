@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/abaaba_1.Bso0hq79.png";
+const _imports_0 = "/assets/abaaba_1.Bso0hq79.png";
 const __pageData = JSON.parse('{"title":"西红柿土豆炖牛肉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md","filePath":"stir-fry/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md"}');
 const _sfc_main = { name: "stir-fry/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

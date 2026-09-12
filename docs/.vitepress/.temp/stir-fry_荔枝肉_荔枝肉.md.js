@@ -1,13 +1,13 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/1.CC04b2vt.jpeg";
-const _imports_1 = "/cook/assets/2.dBl0vICc.jpeg";
-const _imports_2 = "/cook/assets/3.D7D75sgd.jpeg";
-const _imports_3 = "/cook/assets/4.DVmgQyV9.jpeg";
-const _imports_4 = "/cook/assets/5.CTOFNu8L.jpeg";
-const _imports_5 = "/cook/assets/6.BKD9tBWR.jpeg";
-const _imports_6 = "/cook/assets/7.bgRupTFi.jpeg";
+const _imports_0 = "/assets/1.CC04b2vt.jpeg";
+const _imports_1 = "/assets/2.dBl0vICc.jpeg";
+const _imports_2 = "/assets/3.D7D75sgd.jpeg";
+const _imports_3 = "/assets/4.DVmgQyV9.jpeg";
+const _imports_4 = "/assets/5.CTOFNu8L.jpeg";
+const _imports_5 = "/assets/6.BKD9tBWR.jpeg";
+const _imports_6 = "/assets/7.bgRupTFi.jpeg";
 const __pageData = JSON.parse('{"title":"荔枝肉的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/荔枝肉/荔枝肉.md","filePath":"stir-fry/荔枝肉/荔枝肉.md"}');
 const _sfc_main = { name: "stir-fry/荔枝肉/荔枝肉.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

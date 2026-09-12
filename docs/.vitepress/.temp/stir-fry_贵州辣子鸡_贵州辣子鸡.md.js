@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E8%B4%B5%E5%B7%9E%E8%BE%A3%E5%AD%90%E9%B8%A1.Gb5GXDG2.jpg";
+const _imports_0 = "/assets/%E8%B4%B5%E5%B7%9E%E8%BE%A3%E5%AD%90%E9%B8%A1.Gb5GXDG2.jpg";
 const __pageData = JSON.parse('{"title":"贵州辣子鸡的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/贵州辣子鸡/贵州辣子鸡.md","filePath":"stir-fry/贵州辣子鸡/贵州辣子鸡.md"}');
 const _sfc_main = { name: "stir-fry/贵州辣子鸡/贵州辣子鸡.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

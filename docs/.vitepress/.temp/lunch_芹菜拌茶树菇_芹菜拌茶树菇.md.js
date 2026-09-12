@@ -1,8 +1,8 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87.CGCzz86e.jpg";
-const _imports_1 = "/cook/assets/%E9%97%BD%E6%98%9F%E8%8C%B6%E6%A0%91%E8%8F%87.CK9WQ0z7.jpg";
+const _imports_0 = "/assets/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87.CGCzz86e.jpg";
+const _imports_1 = "/assets/%E9%97%BD%E6%98%9F%E8%8C%B6%E6%A0%91%E8%8F%87.CK9WQ0z7.jpg";
 const __pageData = JSON.parse('{"title":"芹菜拌茶树菇的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/芹菜拌茶树菇/芹菜拌茶树菇.md","filePath":"lunch/芹菜拌茶树菇/芹菜拌茶树菇.md"}');
 const _sfc_main = { name: "lunch/芹菜拌茶树菇/芹菜拌茶树菇.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

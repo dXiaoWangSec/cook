@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E6%BE%B3%E9%97%A8%E6%B9%BF%E7%89%88%E5%85%8D%E6%B2%BB%E7%89%9B%E8%82%89%E9%A5%AD.JVPtEt-M.jpg";
+const _imports_0 = "/assets/%E6%BE%B3%E9%97%A8%E6%B9%BF%E7%89%88%E5%85%8D%E6%B2%BB%E7%89%9B%E8%82%89%E9%A5%AD.JVPtEt-M.jpg";
 const __pageData = JSON.parse('{"title":"澳门湿版免治牛肉饭的做法","description":"","frontmatter":{},"headers":[],"relativePath":"stir-fry/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md","filePath":"stir-fry/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md"}');
 const _sfc_main = { name: "stir-fry/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {

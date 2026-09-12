@@ -4,7 +4,7 @@ import { extname, join, relative, sep } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const repository = process.env.GITHUB_REPOSITORY?.split('/')[1]
-const base = repository ? `/${repository}/` : '/'
+const base = process.env.VITEPRESS_BASE ?? (repository ? `/${repository}/` : '/')
 
 function getDocumentItems(directoryName: string) {
   const directory = fileURLToPath(new URL(`../${directoryName}/`, import.meta.url))

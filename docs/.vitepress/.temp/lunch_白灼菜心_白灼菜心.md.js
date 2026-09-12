@@ -1,7 +1,7 @@
 import { ssrRenderAttrs, ssrRenderAttr } from "vue/server-renderer";
 import { useSSRContext } from "vue";
 import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
-const _imports_0 = "/cook/assets/%E7%99%BD%E7%81%BC%E8%8F%9C%E5%BF%83.Wh_2CwYD.jpg";
+const _imports_0 = "/assets/%E7%99%BD%E7%81%BC%E8%8F%9C%E5%BF%83.Wh_2CwYD.jpg";
 const __pageData = JSON.parse('{"title":"白灼菜心的做法","description":"","frontmatter":{},"headers":[],"relativePath":"lunch/白灼菜心/白灼菜心.md","filePath":"lunch/白灼菜心/白灼菜心.md"}');
 const _sfc_main = { name: "lunch/白灼菜心/白灼菜心.md" };
 function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
